@@ -1,4 +1,4 @@
-# 5axesCuraTheme
+# 5axes Cura Theme (cura-by_5@xes)
 
 My Cura Theme, Updated for Cura 5.0. Based on the [Ultimaker Dark Theme]()
 
