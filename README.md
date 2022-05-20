@@ -2,13 +2,13 @@
 
 My Cura Theme, Updated for Cura 5.0. Based on the [Ultimaker Dark Theme]()
 
-[cura-by_5@xes](images/cura-by_5axes.jpg)
+[cura-by_5@xes](./images/cura-by_5axes.jpg)
 
 ## Features
 
 Support Non transparent
 
-[Support Non transparent](support.jpg)
+[Support Non transparent](./images/support.jpg)
 
 
 Couleur spéciale pour les déplacements 
