@@ -9,11 +9,11 @@ Note : The non standard menu displayed in the images bellow are due to the use o
 
 ## Features
 
-Support Non transparent
+Support Non-transparent
 
 ![Support Non transparent](./images/support.jpg)
 
 
-Couleur spéciale pour les déplacements 
-* Les Déplacement avec retraction sont en Orange 
-* Les déplacements sans rétraction sont en Bleu
+Special color for moves 
+* Moves with retraction are in Orange 
+* Moves without retraction are in Blue
