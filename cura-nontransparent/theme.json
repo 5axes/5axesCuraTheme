@@ -1,0 +1,12 @@
+{
+    "metadata": {
+        "name": "Ultimaker Dark support non-transparent",
+        "inherits": "cura-dark"
+    },
+
+    "colors": {
+        "layerview_support": [0, 255, 255, 255],
+        "layerview_support_infill": [0, 255, 255, 255],
+        "layerview_support_interface": [63, 127, 255, 255]      
+    }
+}
