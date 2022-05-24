@@ -27,6 +27,10 @@
     },
 
     "colors": {
+		"layerview_support": [0, 255, 255, 255],
+        "layerview_support_infill": [0, 255, 255, 255],
+        "layerview_support_interface": [63, 127, 255, 255],
+		
         "small_button_text": "text_default"
     }
 }
