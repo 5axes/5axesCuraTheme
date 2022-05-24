@@ -1,0 +1,32 @@
+{
+    "metadata": {
+        "name": "Ultimaker Darkish",
+        "inherits": "cura-dark"
+    },
+
+    "base_colors":
+    {
+        "background_1": [39, 44, 48, 255],
+        "background_2": [47, 53, 58, 255],
+        "background_3": [84, 83, 89, 255],
+        "background_4": [23, 28, 31, 255],
+
+        "accent_1": [25, 110, 240, 255],
+        "accent_2": [16, 70, 156, 255],
+        "border_main": [75, 80, 83, 255],
+        "border_accent_1": [255, 255, 255, 255],
+        "border_accent_2": [243, 243, 243, 255],
+        "border_field": [57, 57, 58, 255],
+
+        "text_default": [152, 152, 152, 255],
+        "text_disabled": [118, 118, 118, 255],
+        "text_primary_button": [255, 255, 255, 255],
+        "text_secondary_button": [255, 255, 255, 255],
+        "text_link_hover": [156, 195, 255, 255],
+        "text_lighter": [243, 243, 243, 255]
+    },
+
+    "colors": {
+        "small_button_text": "text_default"
+    }
+}
