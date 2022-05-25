@@ -305,9 +305,5 @@
         "border_main_light": [212, 212, 212, 255],
 		
 		"cloud_unavailable": [153, 153, 153, 255]
-    },
-	
-	"sizes": {
-		"setting_control": [10.0, 2.0]
-	}
+    }
 }

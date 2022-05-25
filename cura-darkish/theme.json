@@ -32,9 +32,5 @@
         "layerview_support_interface": [63, 127, 255, 255],
 		
         "small_button_text": "text_default"
-    },
-	
-	"sizes": {
-		"setting_control": [10.0, 2.0]
-	}
+    }
 }
